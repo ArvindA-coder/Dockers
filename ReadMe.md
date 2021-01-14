@@ -9,9 +9,9 @@ By the end of this course, you will be able to answer what is Docker, why it is 
 
 The hands on project on Docker Essentials & Building a Containerized Web Application is divided into following tasks:
 
-Task 1: Understand what Docker is, why it is used and how to install Docker on Ubuntu Linux.
-Task 2: Run Docker Containers & Learn fundamental Docker terminologies.
-Task 3: Explore Public Docker Images & Registries.
-Task 4: Craft a Dockerfile to containerize your static website.
-Task 5: Run your Static Website on Docker.
-Task 6: Debug your deployment and learn simple monitoring & troubleshooting.
+Task 1: Understand what Docker is, why it is used and how to install Docker on Ubuntu Linux.  
+Task 2: Run Docker Containers & Learn fundamental Docker terminologies.  
+Task 3: Explore Public Docker Images & Registries.  
+Task 4: Craft a Dockerfile to containerize your static website.  
+Task 5: Run your Static Website on Docker.  
+Task 6: Debug your deployment and learn simple monitoring & troubleshooting.  
